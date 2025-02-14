@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetR66_2 Pin=U6-3
+Change Class Name : Old Net Name=Designator New Net Name=MCU
+Change Class Name : Old Net Name=ETC New Net Name=SBC
+Added Class: Name=ETC
+Add Class Member: Failed to add class member : Component X2 Crystal
+Added Room: Name=SBC

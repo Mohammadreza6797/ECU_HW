@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=U6 Old Footprint=SOIC-20 New Footprint=TLE8209-2SA
+Added Pin To Net: NetName=NetR66_2 Pin=U6-3
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Added Pin To Net: NetName=DGND Pin=U6-21
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
