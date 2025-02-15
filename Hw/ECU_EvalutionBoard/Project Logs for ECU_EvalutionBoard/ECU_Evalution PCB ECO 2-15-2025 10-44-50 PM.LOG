@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetTP54_1 Pin=U1-101
+Removed Pin From Net: NetName=NetR42_1 Pin=U1-137
+Added Pin To Net: NetName=NetTP54_1 Pin=U1-119
+Added Pin To Net: NetName=NetR42_1 Pin=U1-122
+Added Pin To Net: NetName=5V Pin=U6-3
+Added Pin To Net: NetName=NetU1_101 Pin=U1-101
+Added Net: Name=NetU1_101
+Added Pin To Net: NetName=NetU1_137 Pin=U1-137
+Added Net: Name=NetU1_137
+Added Member To Class: ClassName=LSD Member=Component R74 Res1

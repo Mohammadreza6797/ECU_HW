@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+3.3V_MCU Pin=R5-2
+Removed Pin From Net: NetName=Variable_AI Pin=R5-3
+Removed Pin From Net: NetName=DGND Pin=R73-2
+Change Component Footprint: Designator=R5 Old Footprint=VR5 New Footprint=POT-MULTITURN
+Change Component Footprint: Designator=R73 Old Footprint=VR5 New Footprint=POT-MULTITURN
+Added Pin To Net: NetName=Variable_AI Pin=R5-2
+Added Pin To Net: NetName=+3.3V_MCU Pin=R5-3
+Added Pin To Net: NetName=DGND Pin=R73-3
+Added Pin To Net: NetName=NetTP44_1 Pin=U6-3
+Added Pin To Net: NetName=NetR73_2 Pin=R73-2
+Added Pin To Net: NetName=NetR73_2 Pin=TP90-1
+Added Pin To Net: NetName=NetR73_2 Pin=U7-12
+Added Net: Name=NetR73_2

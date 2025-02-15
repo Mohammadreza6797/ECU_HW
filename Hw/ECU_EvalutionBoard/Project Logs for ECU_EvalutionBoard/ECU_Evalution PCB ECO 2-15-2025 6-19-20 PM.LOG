@@ -1,0 +1,4 @@
+Added Component: Designator=TP38(TP)
+Added Pin To Net: NetName=SA Pin=TP38-1
+Added Pin To Net: NetName=5V Pin=U6-3
+Added Member To Class: ClassName=Knock Member=Component TP38 TestPoint

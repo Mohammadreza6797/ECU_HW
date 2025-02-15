@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=DGND Pin=P2-3
+Removed Pin From Net: NetName=DGND Pin=P2-4
+Removed Pin From Net: NetName=OUt1 Pin=P2-5
+Removed Pin From Net: NetName=OUt2 Pin=P2-6
+Removed Pin From Net: NetName=OUt3 Pin=P2-7
+Removed Pin From Net: NetName=OUt4 Pin=P2-8
+Removed Pin From Net: NetName=OUt5 Pin=P2-9
+Removed Pin From Net: NetName=OUt6 Pin=P2-10
+Removed Pin From Net: NetName=OUt7 Pin=P2-11
+Removed Pin From Net: NetName=OUt8 Pin=P2-12
+Removed Pin From Net: NetName=OUt9 Pin=P2-13
+Removed Pin From Net: NetName=OUt10 Pin=P2-14
+Removed Pin From Net: NetName=OUt11 Pin=P2-15
+Removed Pin From Net: NetName=OUt12 Pin=P2-16
+Removed Pin From Net: NetName=OUt13 Pin=P2-17
+Removed Pin From Net: NetName=OUt14 Pin=P2-18
+Removed Pin From Net: NetName=OUt15 Pin=P2-19
+Removed Pin From Net: NetName=OUt16 Pin=P2-20
+Removed Pin From Net: NetName=OUt17 Pin=P2-21
+Removed Pin From Net: NetName=OUt18 Pin=P2-22
+Removed Pin From Net: NetName=NetP2_23 Pin=P2-23
+Removed Pin From Net: NetName=NetP2_24 Pin=P2-24
+Removed Pin From Net: NetName=OUt1 Pin=TP7-1
+Removed Pin From Net: NetName=OUt2 Pin=TP8-1
+Removed Pin From Net: NetName=OUt3 Pin=TP9-1
+Removed Pin From Net: NetName=OUt4 Pin=TP10-1
+Removed Pin From Net: NetName=OUt5 Pin=TP11-1
+Removed Pin From Net: NetName=OUt6 Pin=TP12-1
+Removed Pin From Net: NetName=OUt7 Pin=TP13-1
+Removed Pin From Net: NetName=OUt8 Pin=TP14-1
+Removed Pin From Net: NetName=OUt9 Pin=TP15-1
+Removed Pin From Net: NetName=OUt10 Pin=TP16-1
+Removed Pin From Net: NetName=OUt11 Pin=TP17-1
+Removed Pin From Net: NetName=OUt12 Pin=TP18-1
+Removed Pin From Net: NetName=OUt13 Pin=TP19-1
+Removed Pin From Net: NetName=OUt14 Pin=TP20-1
+Removed Pin From Net: NetName=OUt15 Pin=TP21-1
+Removed Pin From Net: NetName=OUt16 Pin=TP22-1
+Removed Pin From Net: NetName=OUt17 Pin=TP23-1
+Removed Pin From Net: NetName=OUt18 Pin=TP24-1
+Removed Member From Class: ClassName=LSD Member=TP7
+Removed Member From Class: ClassName=LSD Member=TP8
+Removed Member From Class: ClassName=LSD Member=TP9
+Removed Member From Class: ClassName=LSD Member=TP10
+Removed Member From Class: ClassName=LSD Member=TP11
+Removed Member From Class: ClassName=LSD Member=TP12
+Removed Member From Class: ClassName=LSD Member=TP13
+Removed Member From Class: ClassName=LSD Member=TP14
+Removed Member From Class: ClassName=LSD Member=TP15
+Removed Member From Class: ClassName=LSD Member=TP16
+Removed Member From Class: ClassName=LSD Member=TP17
+Removed Member From Class: ClassName=LSD Member=TP18
+Removed Member From Class: ClassName=LSD Member=TP19
+Removed Member From Class: ClassName=LSD Member=TP20
+Removed Member From Class: ClassName=LSD Member=TP21
+Removed Member From Class: ClassName=LSD Member=TP22
+Removed Member From Class: ClassName=LSD Member=TP23
+Removed Member From Class: ClassName=LSD Member=TP24
+Change Component Footprint: Designator=P2 Old Footprint=HDR2X12 New Footprint=HDR1X2
+Change Component Comment : Designator=P2 Old Comment=Header 12X2 New Comment=Header 2
+Added Component: Designator=P4(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUt1 Pin=P4-1
+Added Pin To Net: NetName=OUt2 Pin=P4-2
+Added Pin To Net: NetName=OUt3 Pin=P4-3
+Added Pin To Net: NetName=OUt4 Pin=P4-4
+Added Pin To Net: NetName=OUt5 Pin=P4-5
+Added Pin To Net: NetName=OUt6 Pin=P4-6
+Added Pin To Net: NetName=OUt7 Pin=P4-7
+Added Pin To Net: NetName=OUt8 Pin=P4-8
+Added Pin To Net: NetName=OUt9 Pin=P4-9
+Added Pin To Net: NetName=OUt10 Pin=P4-10
+Added Pin To Net: NetName=OUt11 Pin=P4-11
+Added Pin To Net: NetName=OUt12 Pin=P4-12
+Added Pin To Net: NetName=OUt13 Pin=P4-13
+Added Pin To Net: NetName=OUt14 Pin=P4-14
+Added Pin To Net: NetName=OUt15 Pin=P4-15
+Added Pin To Net: NetName=OUt16 Pin=P4-16
+Added Pin To Net: NetName=OUt17 Pin=P4-17
+Added Pin To Net: NetName=OUt18 Pin=P4-18
+Added Pin To Net: NetName=NetP2_23 Pin=P4-19
+Added Pin To Net: NetName=NetP2_24 Pin=P4-20
+Added Pin To Net: NetName=5V Pin=U6-3
+Change Net Name : Old Net Name=NetP2_23 New Net Name=NetP4_19
+Change Net Name : Old Net Name=NetP2_24 New Net Name=NetP4_20
+Added Member To Class: ClassName=Main Member=Component P4 Header 20
+Added Room: Name=ALL_Power
+Added Room: Name=Main
