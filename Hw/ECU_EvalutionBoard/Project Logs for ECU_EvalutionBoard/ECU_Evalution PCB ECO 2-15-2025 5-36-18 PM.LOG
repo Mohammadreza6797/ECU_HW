@@ -1,4 +1,0 @@
-Added Component: Designator=TP33(TP)
-Added Pin To Net: NetName=NetC34_1 Pin=TP33-1
-Added Pin To Net: NetName=NetTP44_1 Pin=U6-3
-Added Member To Class: ClassName=SBC Member=Component TP33 TestPoint

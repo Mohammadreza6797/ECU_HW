@@ -1,7 +1,0 @@
-Added Component: Designator=TP7(TP)
-Added Component: Designator=TP8(TP)
-Added Pin To Net: NetName=NetC28_1 Pin=TP7-1
-Added Pin To Net: NetName=NetC29_1 Pin=TP8-1
-Added Pin To Net: NetName=NetTP44_1 Pin=U6-3
-Added Member To Class: ClassName=Knock Member=Component TP7 TestPoint
-Added Member To Class: ClassName=Knock Member=Component TP8 TestPoint

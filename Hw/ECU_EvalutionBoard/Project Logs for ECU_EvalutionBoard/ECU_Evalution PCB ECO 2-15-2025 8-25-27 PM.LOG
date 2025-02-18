@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=5V Pin=C35-2
-Added Pin To Net: NetName=5V_Reg Pin=C35-2
-Added Pin To Net: NetName=NetTP44_1 Pin=U6-3

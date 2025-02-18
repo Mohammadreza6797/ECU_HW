@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=D6 Old Footprint=LED-0 New Footprint=0805LED
-Change Component Footprint: Designator=D7 Old Footprint=LED-0 New Footprint=0805LED
-Change Component Footprint: Designator=D8 Old Footprint=LED-0 New Footprint=0805LED
-Added Pin To Net: NetName=5V Pin=U6-3
-Add Class Member: Failed to add class member : Component X2 Crystal

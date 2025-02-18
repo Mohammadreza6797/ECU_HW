@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=5V Pin=U6-3
-Add Class: Class already exists: Designator
-Added Class: Name=ETC
-Added Class: Name=Knock
-Added Class: Name=MU
-Change Room Name: Old Name=Designator New Name=ETC
-Change Room Scope: Old Scope=InComponentClass('Designator') New Scope=InComponentClass('ETC')
-Change Room Name: Old Name=Designator New Name=MU
-Change Room Scope: Old Scope=InComponentClass('Designator') New Scope=InComponentClass('MU')

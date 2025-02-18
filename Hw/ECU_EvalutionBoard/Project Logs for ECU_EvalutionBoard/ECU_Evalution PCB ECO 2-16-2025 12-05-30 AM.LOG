@@ -1,7 +1,0 @@
-Added Component: Designator=TP9(TP)
-Added Component: Designator=TP10(TP)
-Added Pin To Net: NetName=NetR44_1 Pin=TP9-1
-Added Pin To Net: NetName=NetR44_2 Pin=TP10-1
-Added Pin To Net: NetName=5V Pin=U6-3
-Added Member To Class: ClassName=Main Member=Component TP9 TestPoint
-Added Member To Class: ClassName=Main Member=Component TP10 TestPoint

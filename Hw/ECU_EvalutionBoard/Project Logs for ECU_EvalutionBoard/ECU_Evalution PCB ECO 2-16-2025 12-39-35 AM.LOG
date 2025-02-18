@@ -1,7 +1,0 @@
-Added Component: Designator=TP1(TP)
-Added Component: Designator=TP11(TP)
-Added Pin To Net: NetName=Fixed_AI Pin=TP1-1
-Added Pin To Net: NetName=Variable_AI Pin=TP11-1
-Added Pin To Net: NetName=NetTP44_1 Pin=U6-3
-Added Member To Class: ClassName=MCU Member=Component TP1 TestPoint
-Added Member To Class: ClassName=MCU Member=Component TP11 TestPoint

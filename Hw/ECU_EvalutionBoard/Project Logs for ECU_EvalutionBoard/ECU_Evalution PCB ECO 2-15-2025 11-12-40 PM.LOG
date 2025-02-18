@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetTP43_1 Pin=U1-128
-Removed Pin From Net: NetName=NetTP44_1 Pin=U1-129
-Added Pin To Net: NetName=NetTP44_1 Pin=U1-128
-Added Pin To Net: NetName=NetTP43_1 Pin=U1-129
-Added Pin To Net: NetName=5V Pin=U6-3
